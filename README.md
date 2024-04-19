@@ -15,4 +15,9 @@ Shot in the leg 4 times: 100% chance to fall
 
 (^ change in client.lua ^)
 
-By: Jitsu
+
+
+
+
+
+* I only added the chances to this script because I needed it for my server! I don't take credit for the script, just wanted to share it! *
