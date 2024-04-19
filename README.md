@@ -20,4 +20,4 @@ Ragdolling Based on Chances:
 
 
 
-** I only added the chances to this script because I needed it for my server! I don't take credit for the script, just wanted to share it! **
+**I only added the chances to this script because I needed it for my server! I don't take credit for the script, just wanted to share it!**
